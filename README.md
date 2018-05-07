@@ -2,7 +2,7 @@
  
 # Machine Learning Based Human Driving Behavior Recognition and Prediction
 
-[**Hengbo Ma**](https://hengboma.github.io), [**Franklin Zhao**](http://franklinzhao.top), **Jessica Leu, Yujun Zou**
+[**Hengbo Ma**](https://hengboma.github.io), [**Franklin Zhao**](http://franklinzhao.top), **Jessica Leu, and Yujun Zou**
 
 May 2018
 
